@@ -170,15 +170,6 @@
 
 ### **Timeline Optimisé**
 
-**Avec équipe de 6 développeurs (30 points/sprint) :**
-- **Phase 1 (PoC)** : 10 sprints = **5 mois**
-- **Phase 2 (MVP)** : 30 sprints = **15 mois** 
-- **Phase 3 (V1.0)** : 39 sprints = **20 mois**
-
-**Avec équipe de 10 développeurs (50 points/sprint) :**
-- **Phase 1 (PoC)** : 6 sprints = **3 mois**
-- **Phase 2 (MVP)** : 18 sprints = **9 mois**
-- **Phase 3 (V1.0)** : 24 sprints = **12 mois**
 
 ---
 
