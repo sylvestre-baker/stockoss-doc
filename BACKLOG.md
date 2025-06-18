@@ -67,7 +67,7 @@
 ## 📊 **ÉTAT ACTUEL RÉVISÉ**
 - ✅ **API Contract** : 109 endpoints définis dans Swagger OpenAPI 3.0
 - ✅ **Solutions Open Source** : Disponibles et éprouvées
-- 🔧 **Couche d'abstraction** : 109 microservices à développer
+- 🔧 **Couche d'abstraction** : 109 points d'API à développer
 - 🎨 **Frontend** : Interface moderne à créer
 - 🔐 **Services métier** : Facturation, Partners, OCR à développer
 
